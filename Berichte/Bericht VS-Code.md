@@ -17,6 +17,12 @@ Man Klont das repository mit dem Befehl
 ```
 $ git clone https://github.com/simonklingesberger/4AHITS_ITSE_Klingesberger
 ```
-**dieser Text wurde mit kali geschrieben**
+Dann muss man
+```
+$ git add .
+$ git commit -m "Message"
+$ git push 
+```
+Um die Dateien zu aktualisieren.
 
 
