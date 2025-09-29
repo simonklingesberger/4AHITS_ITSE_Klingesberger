@@ -25,4 +25,12 @@ $ git push
 ```
 Um die Dateien zu aktualisieren.
 
+## Git Pull
+
+Der Befehl
+```
+$ git pull
+```
+holt die Änderungen vom Repository
+die Änderungen wurden bei mir übernommen.
 
